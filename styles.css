@@ -4,9 +4,11 @@
 .logo-img {
     display: block;
     width: 300px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
+    margin: 20px auto 0px;
 }
 .search-input {
     display: block;
     width: 400px;
+    margin: 0px auto;
 }
