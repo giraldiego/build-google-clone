@@ -1,11 +1,21 @@
-.main {
-    margin-top: 100px;
+body {
+    margin: 0px;
 }
-.logo-img {
-    display: block;
-    width: 300px;
+
+.red {
+    background: #c71226;
+    height: 100px;
 }
-.search-input {
-    display: block;
-    width: 400px;
+
+.blue {
+    background: #0d1b88;
+    height: 75px;
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+    margin: 20px 0px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
 }
