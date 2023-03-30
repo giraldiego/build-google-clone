@@ -7,8 +7,14 @@
     /* margin-bottom: 20px; */
     margin: 20px auto 0px;
 }
-.search-input {
+.search-field {
     display: block;
     width: 400px;
+    /* height: 24px; */
+    line-height: 24px;
+    box-sizing: content-box;
     margin: 0px auto;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
 }
